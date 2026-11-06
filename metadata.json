@@ -1,0 +1,6 @@
+{
+  "name": "워드 클라우드",
+  "description": "사람들의 응답 단어 및 표현을 구름 모양 워드 클라우드로 시각화하고 유사한 요소들을 한데 모아 정리해주는 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
